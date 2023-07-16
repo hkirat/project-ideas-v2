@@ -17,3 +17,6 @@ The basic function requirements
 
 ### Frontend service
 - A simple frontend in react similar to the google drive website. You can use any UI framework you want, but I would recommend using tailwindcss.
+
+### System Design Analysis for google drive
+[click here](https://towardsdatascience.com/system-design-analysis-of-google-drive-ca3408f22ed3)
